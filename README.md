@@ -1,5 +1,4 @@
 - Hi, I’m @AlexLoup33
-- I’m interested in video games/mangas and programmation.
 - I’m currently learning python / C and Godot Script.
 - How to reach me :
   - e-mail : a.loupoueyou@icloud.com
