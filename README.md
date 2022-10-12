@@ -1,8 +1,7 @@
 - Hi, I’m @AlexLoup33
 - I’m currently learning python / C and Godot Script.
 - How to reach me :
-  - e-mail : a.loupoueyou@icloud.com
-  - Discord : AlexLoup#7123
+  Discord : AlexLoup#7123
   
   
 <!---
