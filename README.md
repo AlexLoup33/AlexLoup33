@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm AlexLoup <img src="https://media.giphy.com/media/UHDB3gcgTHKotMQHiA/giphy.gif" width="45"></h2>
+<h2>Hi 👋, I'm AlexLoup <picture><img src="https://media.giphy.com/media/UHDB3gcgTHKotMQHiA/giphy.gif" width="45"></picture></h2>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 <p><em>Computer Science Student at <a href="https://www.u-bordeaux.fr/">UBx</a></em></p>
 
