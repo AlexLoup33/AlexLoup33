@@ -31,9 +31,7 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLoup33&theme=nord&show_icons=true&hide_border=false&layout=compact)](https://github.com/AlexLoup33) 
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AlexLoup33?theme=nord&font=Nunito&ext=activity)](https://leetcode.com/AlexLoup33/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AlexLoup)
 
 <hr>
 
