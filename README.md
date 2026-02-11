@@ -6,7 +6,7 @@
 [![GitHub : AlexLoup33](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/AlexLoup33)
 [![Itch.io : AlexLoup](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alexloup.itch.io/)
 
-<p>Interested in Cyber Security, Cryptography and Video Game Development. I always try to learn and improve my skills.<br>I making some game jams for the fun and trying to find inspiration for game dev.<br>Also Actually learning Japanese 🇯🇵.</p>
+<p>Highly interested in High Performance Computing (HPC) & Optimization. I always try to learn and improve my skills.<br>Currently in an intership at Inria of Bordeaux in the team TaDaaM for "Improving I/O performances on the HPC applications Gysela".<br>Also Actually learning Japanese 🇯🇵.</p>
 
 <h1>Language and Tools 💻</h1>
 
